@@ -20,7 +20,7 @@ The project also includes **DTOs, Service, Controller, Mapper** using the **buil
 
 ## Technologies Used
 
-* Java 17
+* Java 21
 * Spring Boot 3
 * Lombok
 * Spring Web
